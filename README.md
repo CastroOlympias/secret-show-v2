@@ -5,12 +5,12 @@
 ## Description
 SECRET SHOW lets you and your band create your shows on your own dashboard, uploading locations, band images and videos from YouTube of your own shows, while connecting Artists with their Fans and allow your Fans to find your next upcoming shows!
 
-Link to <a href="https://secret-show.herokuapp.com/">SECRET SHOW</a> , let the music begin!
+Link to <a href="https://castroolympias-secret-show.herokuapp.com/">SECRET SHOW</a> , let the music begin!
 
-<a href="https://github.com/ds1242/secret-show-v2"> Git Hub Link </a>
+<a href="https://github.com/CastroOlympias/secret-show-v2"> Git Hub Link </a>
 
 
-<img src="https://github.com/ds1242/secret-show-v2/blob/fix-date/media/Secret_Show_gif.gif"/>
+<img src="https://github.com/CastroOlympias/secret-show-v2/blob/main/media/Secret_Show_gif.gif"/>
 
 ## Table of Contents
 - [Story](#Story)
